@@ -1,0 +1,6 @@
+./configure --prefix=/usr --localstatedir=/var/lib/vim --with-features=big 
+--enable-gpm --enable-acl --with-x=yes --mandir=/usr/share/man --with-compiledby=ArchLinux 
+--enable-gui=gtk --enable-multibyte --enable-cscope --enable-netbeans --enable-perlinterp 
+--with-x --enable-xim --with-gnome --with-features=huge --enable-python3interp 
+--with-python-config-dir=/usr/lib/python3.6/config-3.6m-x86_64-linux-gnu/ 
+--enable-rubyinterp --enable-luainterp --enable-perlinterp
